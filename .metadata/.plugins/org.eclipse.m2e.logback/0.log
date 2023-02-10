@@ -971,3 +971,6 @@
 2023-02-10 11:00:13,194 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
 2023-02-10 11:00:50,214 [Worker-36: Launching javaparser-maven-sample] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "F:\Devops training\javaparser-maven-sample-master\javaparser-maven-sample":
 2023-02-10 11:00:50,214 [Worker-36: Launching javaparser-maven-sample] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2023-02-10 17:37:06,884 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-02-10 17:37:33,407 [Worker-46: Launching javaparser-maven-sample (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "F:\Devops training\javaparser-maven-sample-master\javaparser-maven-sample":
+2023-02-10 17:37:33,407 [Worker-46: Launching javaparser-maven-sample (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean validate package
